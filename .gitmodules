@@ -1,0 +1,3 @@
+[submodule "libs/submodules/hislope"]
+	path = libs/submodules/hislope
+	url = git@github.com:codecreative/HiSlope.git
